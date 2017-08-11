@@ -1,0 +1,6 @@
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\bin\Debug\Serialization.dll.config
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\bin\Debug\Serialization.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\obj\Debug\Serialization.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\Serialization\obj\Debug\Serialization.pdb

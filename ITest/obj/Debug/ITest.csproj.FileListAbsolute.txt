@@ -1,0 +1,10 @@
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\ITest.dll.config
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\ITest.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\ITest.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\Messages.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\XmlParser.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\Messages.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\bin\Debug\XmlParser.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\obj\Debug\ITest.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\ITest\obj\Debug\ITest.pdb

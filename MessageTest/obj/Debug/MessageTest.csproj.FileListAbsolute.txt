@@ -1,0 +1,6 @@
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\bin\Debug\MessageTest.dll.config
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\bin\Debug\MessageTest.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\bin\Debug\MessageTest.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\obj\Debug\MessageTest.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\MessageTest\obj\Debug\MessageTest.pdb

@@ -1,0 +1,7 @@
+Comparison between OCD and Implementation.
+
+1. OCD mentions the use of a test executive to demonstrate that the requirements have
+   been met. The same functionality is achieved by the individual startup projects.
+2. Files are uploaded and downloaded using a file streaming service. This type of streaming
+   service has not been covered in the ocd.
+3. The WPF client has been enhanced to control more operations of the client.

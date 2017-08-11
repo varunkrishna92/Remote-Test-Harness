@@ -1,0 +1,23 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Mon Feb  6 23:31:08 2017
+     Path: "C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\BlockingQueue"
+     Args: BlockingQueue.csproj, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     8 dirs
+   processed     1 files

@@ -1,0 +1,1 @@
+devenv Remote_TestHarness.sln /rebuild debug

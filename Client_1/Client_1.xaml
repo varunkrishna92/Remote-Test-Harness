@@ -1,0 +1,64 @@
+﻿<Window x:Class="Remote_TestHarness.Client_1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client 2"  Height="626" Width="655">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ToolBar Grid.Column="0">
+                <!--<Button Content="Test Requests" Width="250" Margin="30 0" Name="requestsTextBox" VerticalAlignment="Center">
+                </Button>-->
+                <Menu  Width="250" Margin="30 0" Name="requestsTextBox" VerticalAlignment="Center">
+                    <MenuItem Name="RequestMenu"  Header="Test Requests Menu" Width="150" Margin="30 0" HorizontalAlignment="Center">
+                        <MenuItem Name="Request1" Header="Item1" Click="Request1_Click"/>
+                        <MenuItem Name="Request2" Header="Item1" Click="Request2_Click"/>
+                    </MenuItem>
+                </Menu>
+            </ToolBar>
+            <TextBox Grid.Column="1" Height="23" Margin="20,0" Name="LocalPortTextBox" VerticalAlignment="Center" Width="78"
+               HorizontalContentAlignment="Center">8081</TextBox>
+            <Button Grid.Column="2" Height="23" Margin="20,0" Name="ListenButton" VerticalAlignment="Center"
+              Width="78" Click="ListenButton_Click" IsEnabled="False">Listen</Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />                
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Height="28" Margin="30,0" Name="label1" VerticalAlignment="Center"
+             BorderThickness="1" Background="Wheat" HorizontalContentAlignment="Center">
+                Send Message to Test Harness
+            </Label>
+            <Button Grid.Column="1" Height="23" Margin="70,0" Name="SendButton" VerticalAlignment="Center"
+              HorizontalAlignment="Right" Width="78" Click="SendMessage_Click" IsEnabled="False">Send Message</Button>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Height="28" Margin="30,0" Name="label4" VerticalAlignment="Center" 
+             HorizontalContentAlignment="Center" Background="Wheat">Request logs from Repository</Label>
+            <Button Grid.Column="1" Height="23" Margin="50,0" Name="QueryButton" VerticalAlignment="Center" Width="120"
+              Click="QueryButton_Click" IsEnabled="False">Query Repository</Button>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" Margin="30, 20, 15, 20" Name="listBox1" />
+            <ListBox Grid.Column="1" Margin="15, 20, 30, 20" Name="listBox2" />
+        </Grid>
+    </Grid>
+</Window>

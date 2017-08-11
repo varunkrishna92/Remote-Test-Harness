@@ -1,0 +1,6 @@
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\bin\Debug\TestCode.dll.config
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\bin\Debug\TestCode.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\bin\Debug\TestCode.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\obj\Debug\TestCode.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\TestCode\obj\Debug\TestCode.pdb

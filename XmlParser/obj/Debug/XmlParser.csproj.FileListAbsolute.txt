@@ -1,0 +1,6 @@
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\bin\Debug\XmlParser.dll.config
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\bin\Debug\XmlParser.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\bin\Debug\XmlParser.pdb
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\obj\Debug\XmlParser.dll
+C:\Users\Varun\Documents\Visual Studio 2015\Projects\Remote_TestHarness\XmlParser\obj\Debug\XmlParser.pdb
